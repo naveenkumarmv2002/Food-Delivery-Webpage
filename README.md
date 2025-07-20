@@ -23,4 +23,4 @@ Frontend: HTML, CSS, JavaScript (Vanilla)
 Design Inspired By: Swiggy, Zomato
 Icons: Font Awesome
 
-
+GitHub Link: https://naveenkumarmv2002.github.io/Food-Delivery-Webpage/
